@@ -1,0 +1,8 @@
+*node_modules/*
+fb_pass.js
+ssh.sh
+mongod.sh
+./SubDomain/KR/*node_modules/*
+./SubDomain/JP/*node_modules/*
+./SubDomain/ENG/*node_modules/*
+node_modules
